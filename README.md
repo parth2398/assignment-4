@@ -6,8 +6,6 @@ A modern web application that integrates Google's Gemini 2.0 Flash-001 model to 
 
 ![Gemini Chat Application Screenshot](./screenshots/gemini-chat-screenshot.png)
 
-_Note: Replace this with your own screenshot after pushing to GitHub_
-
 ## Features
 
 - Simple and intuitive chat interface
