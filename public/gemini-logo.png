@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="32" cy="32" r="30" fill="#4285F4" />
+  <circle cx="24" cy="22" r="6" fill="#EA4335" />
+  <circle cx="40" cy="22" r="6" fill="#FBBC05" />
+  <circle cx="32" cy="38" r="6" fill="#34A853" />
+  <path d="M32 44C26.4772 44 22 39.5228 22 34H24C24 38.4183 27.5817 42 32 42C36.4183 42 40 38.4183 40 34H42C42 39.5228 37.5228 44 32 44Z" fill="white" />
+</svg> 
